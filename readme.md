@@ -1,5 +1,7 @@
  "Created README.md to keep track of assignments"
- Assignment 1: List Manipulation
+ 
+Assignment 1: List Manipulation
+
 This assignment demonstrates fundamental operations on Python lists, showcasing the following concepts:
 
 Creating and initializing lists with sample data.
